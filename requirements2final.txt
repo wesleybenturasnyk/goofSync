@@ -1,2 +1,2 @@
 PyYAML==5.1
-pillow==8.0.0
+pillow==9.0.0
