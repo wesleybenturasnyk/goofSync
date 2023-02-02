@@ -1,2 +1,0 @@
-PyYAML==5.1
-pillow==9.0.0
